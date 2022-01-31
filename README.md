@@ -37,3 +37,7 @@ You were asked to solve coding problems in all of your software engineering inte
 ### Resume Builder
 ### ATS Tester
 ### HR Questions
+### Other Free Resources
+- [PepCoding](https://pepcoding.com/resources/)
+- [GirlCodeIt](https://girlcodeit.com/codemaps)
+- [CodingNinjas](https://www.codingninjas.com/codestudio)
