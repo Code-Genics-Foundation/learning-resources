@@ -11,13 +11,26 @@ You were asked to solve coding problems in all of your software engineering inte
 - [GeeksForGeeks](https://www.geeksforgeeks.org)
 - [HackerRank](https://www.hackerrank.com)
 
-### View all resources resources [here](#)
+View all resources resources [here](#)
+
+### Popular DSA Sheets
+These Sheets cover all of the standard questions asked in coding interviews and will provide you with a brief overview of the types of questions asked in coding interviews.
+- [Striver](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+- [Lover Babbar](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
+
 
 ## Software Development
 
 ## Interview Experiences
 
 ## Career Opportunities
+- [D2C](https://dare2compete.com/)
+- [Angle List](https://angel.co/)
+- [HackerRank](https://www.hackerrank.com/contests)
+- [HackerEarth](https://www.hackerearth.com/challenges/)
+
+Almost every company has its own **career website** or page where they post the latest job openings. You can go to those websites at regular intervals and check them. <br/>
+You can also apply to a company with a **referal**. 
 
 ## Books
 
